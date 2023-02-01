@@ -7,8 +7,3 @@
 *.bin
 *.sqlite
 *.vsidx
-/Luxury_Back/wwwroot/images/uploaded/*
-/Luxury_Back/node_modules
-/Luxury_Back/.vscode
-/Luxury_Back/wwwroot/css/root.css.map
-/Luxury_Back/appsettings.Development.json
